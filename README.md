@@ -5,6 +5,9 @@ The objective of this report is to provide an overview and analysis of the proje
 ## Methodology
 ### Data Collection and Preprocessing
 The project began by collecting a dataset of stainless-steel plates with corresponding labels indicating the presence or absence of defects. The dataset was preprocessed to handle missing values, outliers, and any other data inconsistencies. Feature engineering techniques were employed to extract relevant features from the data, including luminosity, sigmoid of areas, pastry, stains, dirtiness, and bumps.
+<p align="center">
+  <img src="/Fiqures/111.jpg" align="center" width="900" height="450">
+</p>
 
 ### Algorithm Selection and Implementation
 The project employed four machine learning algorithms for defect detection: Random Forest, Decision Tree, SVC, and KNN. Each algorithm was implemented using appropriate libraries and frameworks such as scikit-learn in Python. The algorithms were trained on the preprocessed dataset to learn the relationships between the input features and the presence of defects.
