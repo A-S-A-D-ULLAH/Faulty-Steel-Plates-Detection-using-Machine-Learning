@@ -25,15 +25,15 @@ The Random Forest algorithm demonstrated high accuracy in detecting faulty steel
 </p>
 
 ### Decision Tree
-Decision Tree algorithm, although simpler compared to Random Forest, exhibited satisfactory performance in detecting defects. Its ability to create a tree-like model of decisions and consequences enabled interpretable insights into the impact of various factors on steel plate defects. The model achieved Training accuracy of 93% and testing is 79%.
+Decision Tree algorithm, although simpler compared to Random Forest, exhibited satisfactory performance in detecting defects. Its ability to create a tree-like model of decisions and consequences enabled interpretable insights into the impact of various factors on steel plate defects. The model achieved Training accuracy of 100% and testing is 76%.
 <p align="center">
-  <img src="/Fiqures/6.jpg" align="center" >
+  <img src="/Fiqures/5.jpg" align="center" >
 </p>
 
 ### SVM
-Support Vector Machines (SVM) showed promising results in detecting faulty steel plates. By finding an optimal hyperplane to separate different classes, it effectively distinguished between defective and non-defective plates. However, SVM's computational complexity may pose limitations for larger datasets.The model achieved Training accuracy of 100% and testing is 76%.
+Support Vector Machines (SVM) showed promising results in detecting faulty steel plates. By finding an optimal hyperplane to separate different classes, it effectively distinguished between defective and non-defective plates. However, SVM's computational complexity may pose limitations for larger datasets.The model achieved Training accuracy of 74% and testing is 71%.
 <p align="center">
-  <img src="/Fiqures/5.jpg" align="center" >
+  <img src="/Fiqures/6.jpg" align="center" >
 </p>
 
 ### KNN
